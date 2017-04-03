@@ -9,4 +9,9 @@ Development of a beverage price monitoring system using a web scraper, database 
   <li>Special deal if applicable e.g. “2 beverages for $2.00”</li> 
   <li>Every day price</li> 
   <li>Barcode (if possible)</li>
+  <li>Cost per litre</li>
+  <li>Energy in KJ per serving</li>
+  <li>Energy in KJ per 100mls</li>
+  <li>Sugar content in GMS per serving</li>
+  <li>Sugar content in GMS per 100mls</li>
 </ul>
